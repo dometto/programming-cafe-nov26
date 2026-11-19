@@ -65,7 +65,7 @@ Who has...
 Help is available:
 
 * General git cheatsheet:
-  * <http://www.pauline-vos.nl/git-legit-cheatsheet/>
+  * <https://git-scm.com/cheat-sheet>
 * Disaster cheatsheet:
   * <https://ohshitgit.com/>
 * Zine by Julia Evans:
